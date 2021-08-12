@@ -1,2 +1,1 @@
-# github-demo
-a simple demo repo.
+# aws_codedeploy_using_github
